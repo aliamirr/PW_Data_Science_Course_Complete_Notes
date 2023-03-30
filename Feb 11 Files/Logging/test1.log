@@ -1,0 +1,64 @@
+2023-02-24 20:22:23,338 this is my info logging
+2023-02-24 20:22:23,339 this is my error message
+2023-02-24 20:22:23,340 this is my critical
+2023-02-24 20:25:33,652 pickle loaded: /opt/homebrew/Caskroom/miniforge/base/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-02-24 20:25:33,671 pickle loaded: /opt/homebrew/Caskroom/miniforge/base/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-02-24 20:25:40,086 diff parser start
+2023-02-24 20:25:40,087 line_lengths old: 1; new: 1
+2023-02-24 20:25:40,087 -> code[replace] old[1:1] new[1:1]
+2023-02-24 20:25:40,089 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-24 20:25:40,089 diff parser end
+2023-02-24 20:25:40,117 pickle loaded: /opt/homebrew/Caskroom/miniforge/base/lib/python3.10/logging/__init__.py
+2023-02-24 20:35:34,135 this is my info logging 
+2023-02-24 20:35:34,140 this is my error message
+2023-02-24 20:35:34,141 this is my critical
+2023-02-24 20:35:51,019 this is my info logging 
+2023-02-24 20:35:51,020 this is my error message
+2023-02-24 20:35:51,021 this is my critical
+2023-02-24 20:35:57,527 diff parser start
+2023-02-24 20:35:57,527 line_lengths old: 1; new: 1
+2023-02-24 20:35:57,527 -> code[replace] old[1:1] new[1:1]
+2023-02-24 20:35:57,527 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-24 20:35:57,527 diff parser end
+2023-02-24 20:36:01,052 this is my info logging 
+2023-02-24 20:36:01,053 this is my error message
+2023-02-24 20:36:01,053 this is my critical
+2023-02-24 20:36:06,376 this is my info logging
+2023-02-24 20:36:06,377 this is my error message
+2023-02-24 20:36:06,377 this is my critical
+2023-02-24 20:36:06,388 this is my info logging 
+2023-02-24 20:36:06,389 this is my error message
+2023-02-24 20:36:06,389 this is my critical
+2023-02-24 20:36:08,067 this is my info logging
+2023-02-24 20:36:08,068 this is my error message
+2023-02-24 20:36:08,068 this is my critical
+2023-02-24 20:36:09,672 this is my info logging 
+2023-02-24 20:36:09,678 this is my error message
+2023-02-24 20:36:09,679 this is my critical
+2023-02-24 20:36:19,349 this is my info logging 
+2023-02-24 20:36:19,349 this is my error message
+2023-02-24 20:36:19,350 this is my critical
+2023-02-24 20:36:27,471 No such comm target registered: jupyter.widget.control
+2023-02-24 20:36:27,474 No such comm: 58440132-944e-410e-90f4-0b15b21e8e04
+2023-02-24 20:36:27,474 Current comms: []
+2023-02-24 20:36:38,221 this is my info logging
+2023-02-24 20:36:38,221 this is my error message
+2023-02-24 20:36:38,221 this is my critical
+2023-02-24 20:36:38,233 this is my info logging 
+2023-02-24 20:36:38,233 this is my error message
+2023-02-24 20:36:38,234 this is my critical
+2023-02-24 20:36:40,451 this is my info logging
+2023-02-24 20:36:40,451 this is my error message
+2023-02-24 20:36:40,451 this is my critical
+2023-02-24 20:36:40,955 this is my info logging 
+2023-02-24 20:36:40,956 this is my error message
+2023-02-24 20:36:40,956 this is my critical
+2023-02-24 20:38:08,445 this is my info logging 
+2023-02-24 20:38:08,445 this is my error message
+2023-02-24 20:38:08,445 this is my critical
+2023-02-24 20:38:36,491 this is my info logging
+2023-02-24 20:38:36,493 this is my error message
+2023-02-24 20:38:36,493 this is my critical
+2023-02-24 20:38:36,994 this is my info logging 
+2023-02-24 20:38:36,996 this is my error message
+2023-02-24 20:38:36,996 this is my critical

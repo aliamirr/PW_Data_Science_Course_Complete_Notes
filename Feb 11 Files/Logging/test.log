@@ -1,0 +1,110 @@
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: d5ea7103-d763-4e71-828f-e9311ac56d73
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: deb6dd3e-d8eb-4e22-be23-63a67c1bf6d0
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message.
+ERROR:root:this is my error
+CRITICAL:root:this is my critical message
+INFO:root:this is my info logging
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical

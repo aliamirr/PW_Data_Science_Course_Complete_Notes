@@ -1,0 +1,105 @@
+2023-02-24 21:19:20,647, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,648, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,648, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,648, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,650, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,650, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,650, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:19:20,650, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:19:20,650, root, INFO, i am inside if statement
+2023-02-24 21:19:20,651, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:19:20,651, root, INFO, i am inside if statement
+2023-02-24 21:19:20,651, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:19:20,651, root, INFO, i am inside if statement
+2023-02-24 21:19:20,651, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:19:20,651, root, INFO, we are iterating through our list and our local variable is i
+2023-02-24 21:22:55,089, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:22:55,089, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:22:55,089, root, INFO, i am inside if statement
+2023-02-24 21:22:55,089, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:22:55,089, root, INFO, i am inside if statement
+2023-02-24 21:22:55,089, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:22:55,089, root, INFO, i am inside if statement
+2023-02-24 21:23:09,343, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,343, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,343, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,343, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,343, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,344, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,344, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:23:09,344, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:23:09,344, root, INFO, i am inside if statement
+2023-02-24 21:23:09,344, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:23:09,344, root, INFO, i am inside if statement
+2023-02-24 21:23:09,344, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:23:09,344, root, INFO, i am inside if statement
+2023-02-24 21:23:09,344, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:23:09,344, root, INFO, we are iterating through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,851, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,852, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,856, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,856, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,857, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,857, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,857, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:25:26,857, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:25:26,857, root, INFO, i am inside if statement
+2023-02-24 21:25:26,857, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:25:26,857, root, INFO, i am inside if statement
+2023-02-24 21:25:26,857, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:25:26,857, root, INFO, i am inside if statement
+2023-02-24 21:25:26,857, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:25:26,857, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:28:50,138, parso.python.diff, DEBUG, diff parser start
+2023-02-24 21:28:50,138, parso.python.diff, DEBUG, line_lengths old: 1; new: 19
+2023-02-24 21:28:50,139, parso.python.diff, DEBUG, -> code[replace] old[1:1] new[1:19]
+2023-02-24 21:28:50,146, parso.python.diff, DEBUG, parse_part from 1 to 19 (to 18 in part parser)
+2023-02-24 21:28:50,147, parso.python.diff, DEBUG, diff parser end
+2023-02-24 21:30:19,413, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,414, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,414, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,415, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,415, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,415, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,415, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:30:19,415, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:30:19,415, root, INFO, i am inside if statement
+2023-02-24 21:30:19,415, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:30:19,415, root, INFO, i am inside if statement
+2023-02-24 21:30:19,416, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:30:19,416, root, INFO, i am inside if statement
+2023-02-24 21:30:19,417, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,417, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:19,418, root, INFO, my final result for int is {l1} and str is {l2}. format(l1 = l1_int, l2 = l2_string)
+2023-02-24 21:30:21,895, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,895, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,895, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,896, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,896, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,896, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,896, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:30:21,896, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:30:21,896, root, INFO, i am inside if statement
+2023-02-24 21:30:21,897, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:30:21,897, root, INFO, i am inside if statement
+2023-02-24 21:30:21,897, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:30:21,897, root, INFO, i am inside if statement
+2023-02-24 21:30:21,897, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,897, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:30:21,897, root, INFO, my final result for int is {l1} and str is {l2}. format(l1 = l1_int, l2 = l2_string)
+2023-02-24 21:32:01,529, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,531, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,532, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,532, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,533, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,533, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,533, root, INFO, i am inside if statement and i am trying to check list type
+2023-02-24 21:32:01,533, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:32:01,533, root, INFO, i am inside if statement
+2023-02-24 21:32:01,533, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:32:01,533, root, INFO, i am inside if statement
+2023-02-24 21:32:01,534, root, INFO, i am in another for loop for list inside list element
+2023-02-24 21:32:01,534, root, INFO, i am inside if statement
+2023-02-24 21:32:01,534, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,535, root, INFO, we are iterating through our list and our local variable is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 21:32:01,535, root, INFO, my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']

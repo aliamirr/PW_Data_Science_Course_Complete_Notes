@@ -1,0 +1,3 @@
+ERROR:root:i am trying to handle a zero division error division by zero
+ERROR:root:i am trying to handle a zero division error division by zero
+ERROR:Comm:No such comm target registered: jupyter.widget.control
